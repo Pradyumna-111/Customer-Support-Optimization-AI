@@ -1,0 +1,17 @@
+crewai
+crewai-tools
+google-generativeai
+langchain
+langchain-google-genai
+pinecone-client
+fastapi
+uvicorn
+sentence-transformers
+transformers
+python-dotenv
+redis
+pydantic
+requests
+numpy
+pandas
+scikit-learn
